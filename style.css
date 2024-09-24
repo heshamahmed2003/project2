@@ -113,7 +113,7 @@
 }
 
 
-@media (min-width:629px) and (max-width:1285px) {
+@media screen and (min-width:629px) and (max-width:1285px) {
 
     .container {
         width:100% ;
@@ -185,7 +185,7 @@
 }
 
 
-@media (min-width:390px) and (max-width:629px){
+@media screen and (min-width:390px) and (max-width:629px){
     .container {
         width:100% ;
         background-color: #F6F6FD;
